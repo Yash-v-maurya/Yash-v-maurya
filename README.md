@@ -1,6 +1,6 @@
 <!-- GitHub Profile Dashboard: Yash V Maurya -->
 
-<h1 align="center">Hey there 👋, I'm Yash V Maurya</h1>
+<h1 align="center">Hey  👋, I'm Yash V Maurya</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&width=435&lines=Focused+on+Learning+%F0%9F%94%A5;Open+to+Ideas+%F0%9F%92%AA;Exploring+Code%2C+ML%2C+and+More+%F0%9F%8C%9F" alt="Typing SVG" />
